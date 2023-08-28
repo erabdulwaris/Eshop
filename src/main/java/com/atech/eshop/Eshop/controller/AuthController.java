@@ -7,6 +7,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class AuthController {
     @GetMapping("/")
     public String register(){
-        return "Welcome to Eshop! Dear users";
+        return "Welcome to Eshop! Dear users!";
     }
 }

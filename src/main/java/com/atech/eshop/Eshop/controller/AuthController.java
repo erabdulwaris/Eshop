@@ -9,4 +9,5 @@ public class AuthController {
     public String register(){
         return "Welcome to Eshop! Dear users!";
     }
+
 }
